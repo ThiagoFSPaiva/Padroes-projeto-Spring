@@ -1,4 +1,4 @@
-package br.com.mateusalves.cliente.config;
+package br.com.thiagofellipe.cliente.config;
 
 import org.modelmapper.ModelMapper;
 import org.springframework.context.annotation.Bean;

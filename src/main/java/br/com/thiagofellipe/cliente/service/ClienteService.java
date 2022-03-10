@@ -1,9 +1,9 @@
-package br.com.mateusalves.cliente.service;
+package br.com.thiagofellipe.cliente.service;
 
-import br.com.mateusalves.cliente.dto.ClienteRequestDTO;
-import br.com.mateusalves.cliente.dto.ClienteResponseDTO;
-import br.com.mateusalves.cliente.model.Cliente;
-import br.com.mateusalves.cliente.repository.ClienteRepository;
+import br.com.thiagofellipe.cliente.dto.ClienteRequestDTO;
+import br.com.thiagofellipe.cliente.dto.ClienteResponseDTO;
+import br.com.thiagofellipe.cliente.model.Cliente;
+import br.com.thiagofellipe.cliente.repository.ClienteRepository;
 import org.modelmapper.ModelMapper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

@@ -1,4 +1,4 @@
-package br.com.mateusalves.cliente.config;
+package br.com.thiagofellipe.cliente.config;
 
 import org.springframework.context.MessageSource;
 import org.springframework.context.annotation.Bean;

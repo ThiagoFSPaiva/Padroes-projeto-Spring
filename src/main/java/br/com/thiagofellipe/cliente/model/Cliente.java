@@ -1,4 +1,4 @@
-package br.com.mateusalves.cliente.model;
+package br.com.thiagofellipe.cliente.model;
 
 import com.sun.istack.NotNull;
 import lombok.*;

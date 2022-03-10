@@ -1,4 +1,4 @@
-package br.com.mateusalves.cliente.dto;
+package br.com.thiagofellipe.cliente.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

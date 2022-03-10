@@ -1,8 +1,8 @@
-package br.com.mateusalves.cliente.controller;
+package br.com.thiagofellipe.cliente.controller;
 
-import br.com.mateusalves.cliente.dto.ClienteRequestDTO;
-import br.com.mateusalves.cliente.dto.ClienteResponseDTO;
-import br.com.mateusalves.cliente.service.ClienteService;
+import br.com.thiagofellipe.cliente.dto.ClienteRequestDTO;
+import br.com.thiagofellipe.cliente.dto.ClienteResponseDTO;
+import br.com.thiagofellipe.cliente.service.ClienteService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.validation.annotation.Validated;

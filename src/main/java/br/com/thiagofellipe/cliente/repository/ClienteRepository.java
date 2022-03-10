@@ -1,6 +1,6 @@
-package br.com.mateusalves.cliente.repository;
+package br.com.thiagofellipe.cliente.repository;
 
-import br.com.mateusalves.cliente.model.Cliente;
+import br.com.thiagofellipe.cliente.model.Cliente;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 

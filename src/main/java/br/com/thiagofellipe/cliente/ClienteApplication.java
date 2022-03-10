@@ -1,4 +1,4 @@
-package br.com.mateusalves.cliente;
+package br.com.thiagofellipe.cliente;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,8 +1,9 @@
 package br.com.mateusalves.cliente.service;
 
-import br.com.mateusalves.cliente.dto.ClienteResponseDTO;
-import br.com.mateusalves.cliente.model.Cliente;
-import br.com.mateusalves.cliente.repository.ClienteRepository;
+import br.com.thiagofellipe.cliente.dto.ClienteResponseDTO;
+import br.com.thiagofellipe.cliente.model.Cliente;
+import br.com.thiagofellipe.cliente.repository.ClienteRepository;
+import br.com.thiagofellipe.cliente.service.ClienteService;
 import org.junit.jupiter.api.*;
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.mockito.InjectMocks;
